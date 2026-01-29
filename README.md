@@ -24,7 +24,13 @@ open index.html
 ## 📷 Demo
 
 * Live Website: *https://resumeforwebdev.vercel.app/*
-* Screenshots: *(Add screenshots here if required)*
+## 📷 Screenshots
+
+![Resume Screenshot 1](1.png)
+![Resume Screenshot 2](2.png)
+![Resume Screenshot 3](3.png)
+![Resume Screenshot 4](4.png)
+
 
 ---
 
