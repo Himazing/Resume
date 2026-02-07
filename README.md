@@ -1,4 +1,5 @@
 ## 📌 Assignment Overview
+Web Dev Cohort 2026 – HTML Assignment
 
 This project is a **single-page resume website** created using **only HTML**.  
 No CSS or JavaScript has been used, as per the assignment instructions.
@@ -55,3 +56,5 @@ open index.html
 This project is created for **educational purposes only**.
 
 © 2026 Himanshu Kumar. All rights reserved.
+
+**Built with ❤️ as part of Web Dev Cohort 2026**
